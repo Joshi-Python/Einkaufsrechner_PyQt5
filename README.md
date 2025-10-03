@@ -1,0 +1,1 @@
+# Einkaufsrechner_PyQt5
